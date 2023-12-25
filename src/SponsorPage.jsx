@@ -66,7 +66,7 @@ const SponsorPage = () => {
         <div class="plans">
         <img src='./public/pngwing.com (30).png'/>
             <h3>Bronze Partners</h3>
-            <h3>Below INR 11,00</h3>
+            <h3>Below INR 11,000</h3>
             <ul>
                 <li>Small size logo on the team website and banners.</li>
                 <li>Position for a small size logo on a team car.</li>
